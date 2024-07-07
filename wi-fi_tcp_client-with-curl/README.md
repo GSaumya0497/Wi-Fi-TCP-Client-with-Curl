@@ -1,4 +1,4 @@
- TCP client
+## TCP client
 
 This code example demonstrates the implementation of a TCP client with PSoC&trade; 6 MCU with AIROC&trade; CYW43xxx Wi-Fi & Bluetooth&reg; combo chips. This example establishes a connection with a remote TCP server based on the command received from the TCP server, which turns the user LED ON or OFF. Additionally, this code example can be configured to bring up the Wi-Fi device either in STA interface or Soft AP interface mode.
 
